@@ -1,12 +1,13 @@
 h1{
-  background-color: Dodgerblue;
+  background-color: lightblue;
+
 }
 
   .container{
-      background-color: Dodgerblue;
+      background-color: lightblue;
 }
 body{
-  background-color: Dodgerblue;
+  background-color: lightblue;
 }
  li {
    display: inline
@@ -26,3 +27,12 @@ body{
 .login a:active {
   top: 5px;
 }
+#blue {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S6yAdZY5bZy5v1oY4K6nyHQZbh4LK02nMLA9yWa9zs3L6gv3");
+}
+#green {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIeEkLqk9EYWclTPgqdZZYor3CfNH5s5aGqLby1XV7iHdJPeYlxQ");
+}
+
+#red {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoog3Bm7l2hq2ztb48yEzUS6q6w__5xW6ZShM0Y25giTC7NWS9");
